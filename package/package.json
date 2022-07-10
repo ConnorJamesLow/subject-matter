@@ -12,6 +12,10 @@
     "prepare": "npm run build"
   },
   "keywords": [],
+  "repository": {
+    "url": "https://github.com/ConnorJamesLow/subject-matter",
+    "type": "git"
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
